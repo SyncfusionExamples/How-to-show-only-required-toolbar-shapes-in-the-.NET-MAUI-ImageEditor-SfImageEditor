@@ -7,7 +7,7 @@
     <ContentPage.Content>
         <imageEditor:SfImageEditor x:Name="imageEditor" Source="image.png">
             <imageEditor:SfImageEditor.ToolbarSettings>
-                <imageEditor:ImageEditorToolbarSettings Shapes="Circle, Line" />
+                <imageEditor:ImageEditorToolbarSettings Shapes="Circle, Line, Polygon, Polyline" />
             </imageEditor:SfImageEditor.ToolbarSettings>
         </imageEditor:SfImageEditor>
     </ContentPage.Content>
