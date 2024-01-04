@@ -1,6 +1,6 @@
-# How to show only required toolbar shapes in the .NET MAUI ImageEditor (SfImageEditor)
+# How to show the required shapes inside the toolbar in the .NET MAUI ImageEditor (SfImageEditor)
 
-This repository contains the sample code to show only required toolbar shapes in the [SfSegmentedControl](https://help.syncfusion.com/maui/imageeditor/getting-started).
+This repository contains the sample code to show the required shapes inside the toolbar in the [SfImageEditor](https://help.syncfusion.com/maui/imageeditor/getting-started).
 
 ## Syncfusion controls
 
